@@ -83,3 +83,4 @@ These metrics give a complete picture of the model’s performance and class-wis
 9. Feature Importance (Optional Visualization)
 Finally, the script plots a bar chart of feature importances, as calculated by the Random Forest algorithm. This helps identify which features (like petal length and width) contribute most to model decisions.
 
+![Image](https://github.com/user-attachments/assets/8f69bf10-c23d-4038-bab5-8534b8532868)
